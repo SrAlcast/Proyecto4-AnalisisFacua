@@ -1,5 +1,7 @@
 # 🛒 Proyecto 4: Análisis de Precios de Supermercados (FACUA)
 
+![Logo FACUA](https://raw.githubusercontent.com/SrAlcast/Proyecto4-AnalisisFacua/a4e8e424f36ed1133c5f2b909ce110d6d9a73170/src/LOGO%20FACUA.jpg)
+
 ## 📋 Descripción General
 
 Este proyecto tiene como objetivo recolectar, procesar y analizar datos sobre los precios de productos en distintos supermercados de España. Utiliza técnicas de scraping, bases de datos SQL, y análisis exploratorio para extraer información relevante sobre la variabilidad de precios y otras tendencias. La fuente principal de datos es la página web [FACUA: Precios Supermercados](https://super.facua.org/).
