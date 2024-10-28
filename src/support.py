@@ -42,7 +42,7 @@ def sacar_tabla1(sopa):
     except: None
     return df
 
-def sacar_tabla1(sopa):
+def sacar_tabla2(sopa):
     try:
         # Extraer el título del <h2>
         title = sopa.find('h2').text.strip('Comparativa de precios de')
