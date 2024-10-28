@@ -15,9 +15,7 @@ Este proyecto tiene como objetivo recolectar, procesar y analizar datos sobre lo
 ## 📁 Estructura del Proyecto
 
 ```bash
-├── data/
-│   ├── base/              # CSVs de extracción
-│   ├── results/           # CSVs de consultas
+├── data/                  # CSVs de extracción
 ├── notebooks/             # Jupyter Notebooks con el codigo de scraping y creacion de BBDD
 ├── results/               # Jupyter Notebooks con el codigo de visualizaciones y scrip de consultas
 ├── src/                   # Código fuente principal y los módulos de la aplicación
